@@ -13,3 +13,9 @@ Here's a rundown of the files and what purpose they serve:
     `completed.php`
     `remain.php`
 
+
+## Finish These Tasks
+1. Editing SQL file.
+1. Install SQL
+1. Install PHP Grid
+1. CSS / Mockups

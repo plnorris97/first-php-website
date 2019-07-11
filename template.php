@@ -1,13 +1,13 @@
 <?php
 use phpGrid\C_DataGrid;
 require_once("../phpGrid/conf.php");      
-include_once('../inc/head.php');
+include_once('../site/head.php');
 ?>
 
-<h1>My Custom CRM</h1>
+<h1>My Course Tracker</h1>
 
 <?php
-include_once('../inc/menu.php');
+include_once('../site/menu.php');
 ?>
 
 <h3>Section Title</h3>
@@ -16,5 +16,5 @@ include_once('../inc/menu.php');
 ?>
 
 <?php
-include_once('../inc/footer.php');
+include_once('../site/footer.php');
 ?>
